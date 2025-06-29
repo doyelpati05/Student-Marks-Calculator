@@ -61,4 +61,4 @@ This project is perfect for:<br>
 Pull requests are welcome. Feel free to fork this repo, improve logic, or even add a GUI version!
 
 ## 📜 License
-This project is open-source and free to use.
+This project is open-source and free to use for learning and personal use.
